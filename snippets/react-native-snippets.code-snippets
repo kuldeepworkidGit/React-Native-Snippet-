@@ -1,0 +1,43 @@
+{
+  "Import React with useEffect": {
+    "prefix": "ir",
+    "body": "import React, { useEffect } from 'react';",
+    "description": "Import React with useEffect"
+  },
+  "Import React Native core components": {
+    "prefix": "irn",
+    "body": "import { View, StyleSheet, Text } from 'react-native';",
+    "description": "Import core components from React Native"
+  },
+  "Empty StyleSheet": {
+    "prefix": "iss",
+    "body": ["const styles = StyleSheet.create({", "  ", "});"],
+    "description": "Create an empty StyleSheet"
+  },
+  "React Native App Component": {
+    "prefix": "iapp",
+    "body": [
+      "import React from 'react';",
+      "import { View, Text, StyleSheet } from 'react-native';",
+      "",
+      "const MyComponent = () => {",
+      "  return (",
+      "    <View style={styles.container}>",
+      "      <Text>Hello, this is a React Native component!</Text>",
+      "    </View>",
+      "  );",
+      "};",
+      "",
+      "const styles = StyleSheet.create({",
+      "  container: {",
+      "    flex: 1,",
+      "    justifyContent: 'center',",
+      "    alignItems: 'center',",
+      "  },",
+      "});",
+      "",
+      "export default MyComponent;"
+    ],
+    "description": "Basic React Native app component template"
+  }
+}

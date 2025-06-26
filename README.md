@@ -15,7 +15,7 @@ A handy Visual Studio Code extension that inserts frequently used React Native b
 
 1. Open a `.js` or `.tsx` file.
 2. Type a shortcut like `ir` and hit Tab or Enter.
-3. The full snippet will be inserted.
+3. The full snippet will be inserted.  
 
 ## Author
 

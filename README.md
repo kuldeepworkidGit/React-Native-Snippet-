@@ -4,7 +4,7 @@ A handy Visual Studio Code extension that inserts frequently used React Native b
 
 ## Snippets
 
-| Shortcut | Snippet Description                        |
+| Snippet | Snippet Description                        |
 |----------|---------------------------------------------|
 | `ir`     | `import React, { useEffect } from 'react';` |
 | `irn`    | `import { View, StyleSheet, Text } from 'react-native';` |

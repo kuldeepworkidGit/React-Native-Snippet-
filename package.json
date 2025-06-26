@@ -4,6 +4,7 @@
   "description": "Useful React Native boilerplate shortcuts for fast development.",
   "publisher": "iKuldeepSingh",
   "version": "0.0.1",
+  "type": "module",
   "engines": {
     "vscode": "^1.101.0"
   },
